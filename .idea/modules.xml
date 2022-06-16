@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SingleArmyGroup.iml" filepath="$PROJECT_DIR$/SingleArmyGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleArmyGroupHome.iml" filepath="$PROJECT_DIR$/SingleArmyGroupHome.iml" />
     </modules>
   </component>
 </project>
