@@ -8,7 +8,7 @@ public class ReplitHW {
 
     public static void main(String[] args) {
 
-
+        System.out.println("Hello");
 
         /*
         Write code that will take in a String input and check to see if it is a palindrome or not.
