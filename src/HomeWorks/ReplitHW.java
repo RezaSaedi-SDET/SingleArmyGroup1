@@ -8,7 +8,6 @@ public class ReplitHW {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello");
 
         /*
         Write code that will take in a String input and check to see if it is a palindrome or not.
@@ -26,15 +25,15 @@ public class ReplitHW {
         Your program will print out "true" if it's a palindrome and "false" if not.
          */
 
-        Scanner inp = new Scanner(System.in);
-        System.out.print("In:");
-        String givenString = inp.nextLine();
-
-        if(givenString.equalsIgnoreCase()){
-            System.out.println("true");
-        }else{
-            System.out.println("false");
-        }
+//        Scanner inp = new Scanner(System.in);
+//        System.out.print("In:");
+//        String givenString = inp.nextLine();
+//
+//        if(givenString.equalsIgnoreCase()){
+//            System.out.println("true");
+//        }else{
+//            System.out.println("false");
+//        }
 
 
         /*
