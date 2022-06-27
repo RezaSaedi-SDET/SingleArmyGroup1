@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="06-25-2022 3rd commit">
+    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="06-26-2022 1st commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWorks/ReplitHwJune25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorks/ReplitHwJune25.java" afterDir="false" />
     </list>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656185806600</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="06-26-2022 1st commit">
+      <created>1656305777807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656305777807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +185,8 @@
     <MESSAGE value="06-15-2022 1st commit" />
     <MESSAGE value="06-15-2022 3rd commit" />
     <MESSAGE value="06-25-2022 3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="06-25-2022 3rd commit" />
+    <MESSAGE value="06-26-2022 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="06-26-2022 1st commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
