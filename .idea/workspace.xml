@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="07-09-2022 1st commit">
+    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="07-19-2022 1st commit">
       <change afterPath="$PROJECT_DIR$/src/HomeWorks/Animal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/HomeWorks/Human.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/HomeWorks/Parent.java" afterDir="false" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657391522052</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="07-19-2022 1st commit">
+      <created>1658272743443</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658272743443</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +242,8 @@
     <MESSAGE value="06-26-2022 2nd commit" />
     <MESSAGE value="07-02-2022 1st commit" />
     <MESSAGE value="07-09-2022 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="07-09-2022 1st commit" />
+    <MESSAGE value="07-19-2022 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="07-19-2022 1st commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
