@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="07-02-2022 1st commit">
-      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplitHw/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplitHw/SyntaxTechnologies.java" afterDir="false" />
+    <list default="true" id="593e6e18-86e9-4c4d-8260-debbc364df07" name="Changes" comment="07-09-2022 1st commit">
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/SDET.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorks/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Inheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Replit189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Replit192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Replit193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/Replit194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplitHw/sum2D.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWorks/ReplitHwJuly2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWorks/ReplitHwJuly2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,35 +51,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Car">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplitHw.Car" />
-      <module name="SingleArmyGroupHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplitHw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplitHw.DogTester" />
-      <module name="SingleArmyGroupHome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReplitHw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReplitHwJuly2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks.ReplitHwJuly2" />
+  <component name="RunManager" selected="Application.Replit194">
+    <configuration name="HasTail1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWorks.HasTail1" />
       <module name="SingleArmyGroupHome" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyntaxTechnologies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplitHw.SyntaxTechnologies" />
+    <configuration name="Replit192" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplitHw.Replit192" />
       <module name="SingleArmyGroupHome" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +78,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SyntaxTechnologiesTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorks2.SyntaxTechnologiesTester" />
+    <configuration name="Replit193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplitHw.Replit193" />
+      <module name="SingleArmyGroupHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplitHw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Replit194" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplitHw.Replit194" />
+      <module name="SingleArmyGroupHome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReplitHw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplitHw.Replit189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplitHw.Replit189" />
       <module name="SingleArmyGroupHome" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.ReplitHw.SyntaxTechnologies" />
-        <item itemvalue="Application.HomeWorks2.SyntaxTechnologiesTester" />
-        <item itemvalue="Application.ReplitHw.DogTester" />
-        <item itemvalue="Application.ReplitHwJuly2" />
+        <item itemvalue="Application.Replit194" />
+        <item itemvalue="Application.Replit193" />
+        <item itemvalue="Application.Replit192" />
+        <item itemvalue="Application.HasTail1" />
+        <item itemvalue="Application.ReplitHw.Replit189" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656816455490</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="07-09-2022 1st commit">
+      <created>1657391483902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1657391483902</updated>
+    </task>
+    <task id="LOCAL-00011" summary="07-09-2022 1st commit">
+      <created>1657391522052</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657391522052</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,7 +234,8 @@
     <MESSAGE value="06-26-2022 1st commit" />
     <MESSAGE value="06-26-2022 2nd commit" />
     <MESSAGE value="07-02-2022 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="07-02-2022 1st commit" />
+    <MESSAGE value="07-09-2022 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="07-09-2022 1st commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
